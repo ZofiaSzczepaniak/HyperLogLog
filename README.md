@@ -5,8 +5,8 @@ Here is an example of the use of the Scala language of this algorithm when it co
 ## Instructions
 First to use the program, one must install the Scala compiler. To do so, enter the site and follow the given steps: https://docs.scala-lang.org/getting-started/index.html
 
-Then to start the program one must type following commands in a terminal:
+Then to start the program one must type the following commands in a terminal:
 ```
 scalac HyperLogLog.scala
-scala HyperLogLog <text filename>
+scala DistinctWords <text filename>
 ```
